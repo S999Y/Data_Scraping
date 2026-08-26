@@ -1,0 +1,233 @@
+{
+  "__doc__": "Per-university configs for GenericScraper. Keys: entries, name, email, profile_url, research, pagination, follow_profiles, force_js, profile.",
+  "University of Wisconsin–Madison": {
+    "entries": "div.faculty-member",
+    "name": "a",
+    "profile_url": "a",
+    "email": "a[href^='mailto:']"
+  },
+  "University of Wisconsin-Madison": {
+    "entries": "div.faculty-member",
+    "name": "a",
+    "profile_url": "a",
+    "email": "a[href^='mailto:']"
+  },
+  "Georgia Institute of Technology (Georgia Tech)": {
+    "entries": "div.profile-card__content",
+    "name": "a[href^='/people/']",
+    "profile_url": "a[href^='/people/']",
+    "pages": [
+      "https://scs.gatech.edu/people/faculty",
+      "https://scs.gatech.edu/people/faculty/a",
+      "https://scs.gatech.edu/people/faculty/b",
+      "https://scs.gatech.edu/people/faculty/c",
+      "https://scs.gatech.edu/people/faculty/d",
+      "https://scs.gatech.edu/people/faculty/e",
+      "https://scs.gatech.edu/people/faculty/f",
+      "https://scs.gatech.edu/people/faculty/g",
+      "https://scs.gatech.edu/people/faculty/h",
+      "https://scs.gatech.edu/people/faculty/i",
+      "https://scs.gatech.edu/people/faculty/j",
+      "https://scs.gatech.edu/people/faculty/k",
+      "https://scs.gatech.edu/people/faculty/l",
+      "https://scs.gatech.edu/people/faculty/m",
+      "https://scs.gatech.edu/people/faculty/n",
+      "https://scs.gatech.edu/people/faculty/o",
+      "https://scs.gatech.edu/people/faculty/p",
+      "https://scs.gatech.edu/people/faculty/q",
+      "https://scs.gatech.edu/people/faculty/r",
+      "https://scs.gatech.edu/people/faculty/s",
+      "https://scs.gatech.edu/people/faculty/t",
+      "https://scs.gatech.edu/people/faculty/u",
+      "https://scs.gatech.edu/people/faculty/v",
+      "https://scs.gatech.edu/people/faculty/w",
+      "https://scs.gatech.edu/people/faculty/x",
+      "https://scs.gatech.edu/people/faculty/y",
+      "https://scs.gatech.edu/people/faculty/z"
+    ]
+  },
+  "Columbia University": {
+    "entries": "div.row.faculty-row",
+    "name": "div.faculty-name-and-title a",
+    "profile_url": "div.faculty-name-and-title a",
+    "email": "div.faculty-contact-info a[href^='mailto:']",
+    "research": "div.faculty-interests"
+  },
+  "Ohio State University": {
+    "entries": "div.directory-grid-item-second-region",
+    "name": "div.field-block-node-coe-person-title",
+    "email": "div.field-block-node-coe-person-field-email"
+  },
+  "University of California, San Diego (UCSD)": {
+    "entries": "div.col-xs-6.col-sm-6.col-md-4.col-lg-3",
+    "profile_url": "a[href*='/people/faculty-profiles/']",
+    "name": "a[href*='/people/faculty-profiles/']"
+  },
+  "University of Maryland": {
+    "entries": "div.media.col-xs-12",
+    "name": "div.media-body a",
+    "profile_url": "div.media-body a",
+    "research": "div.media-body a[href^='/research-area/']"
+  },
+  "University of Pittsburgh": {
+    "entries": "div.views-row > div.views-field.views-field-title",
+    "name": "",
+    "profile_url": "a[href*='/people/full-time-faculty/']",
+    "email": "div.views-field-field-email a"
+  },
+  "University of Rochester": {
+    "entries": "article.person",
+    "name": "a",
+    "profile_url": "a",
+    "email": "a[href^='mailto:']"
+  },
+  "University of California, Irvine": {
+    "entries": "article.item--person",
+    "name": "div.person__top-container",
+    "profile_url": "a[href*='?people=']",
+    "email": "a[href^='mailto:']"
+  },
+  "Pennsylvania State University (Penn State)": {
+    "entries": "div.results-individual-revised",
+    "name": "a",
+    "profile_url": "a",
+    "email": "a[href^='mailto:']"
+  },
+  "Rice University": {
+    "force_js": true,
+    "entries": "div.card--bio",
+    "name": "div.card__title a",
+    "profile_url": "div.card__title a"
+  },
+  "California State University, Fullerton": {
+    "force_js": true,
+    "js_wait_ms": 6000,
+    "entries": "div.directory-item.item-full",
+    "name": ".item-name",
+    "email": ".item-email a"
+  },
+  "Boise State University": {
+    "entries": "li.panel-people__item",
+    "name": "h3.panel-people__name",
+    "profile_url": "a[href*='/people/faculty/']",
+    "email": "a[href^='mailto:']"
+  },
+  "University of Utah": {
+    "entries": "div.t-entry-text-tc",
+    "name": "h2",
+    "email": "a[href^='mailto:']"
+  },
+  "Oregon State University": {
+    "entries": "div.coe-brand-people-card",
+    "name": "h2.coe-brand-people-card-name",
+    "profile_url": "div.coe-brand-people-card > a",
+    "email": "a[href^='mailto:']",
+    "pages": [
+      "https://engineering.oregonstate.edu/EECS/About/People",
+      "https://engineering.oregonstate.edu/EECS/About/People?page=1",
+      "https://engineering.oregonstate.edu/EECS/About/People?page=2",
+      "https://engineering.oregonstate.edu/EECS/About/People?page=3",
+      "https://engineering.oregonstate.edu/EECS/About/People?page=4"
+    ]
+  },
+  "University of Nevada, Las Vegas": {
+    "entries": "div.views-row",
+    "name": "h4",
+    "profile_url": ".more-button a",
+    "email": ".email a[href^='mailto:']",
+    "pages": [
+      "https://www.unlv.edu/cs/directory?glossary=A",
+      "https://www.unlv.edu/cs/directory?glossary=B",
+      "https://www.unlv.edu/cs/directory?glossary=C",
+      "https://www.unlv.edu/cs/directory?glossary=D",
+      "https://www.unlv.edu/cs/directory?glossary=E",
+      "https://www.unlv.edu/cs/directory?glossary=F",
+      "https://www.unlv.edu/cs/directory?glossary=G",
+      "https://www.unlv.edu/cs/directory?glossary=H",
+      "https://www.unlv.edu/cs/directory?glossary=I",
+      "https://www.unlv.edu/cs/directory?glossary=J",
+      "https://www.unlv.edu/cs/directory?glossary=K",
+      "https://www.unlv.edu/cs/directory?glossary=L",
+      "https://www.unlv.edu/cs/directory?glossary=M",
+      "https://www.unlv.edu/cs/directory?glossary=N",
+      "https://www.unlv.edu/cs/directory?glossary=O",
+      "https://www.unlv.edu/cs/directory?glossary=P",
+      "https://www.unlv.edu/cs/directory?glossary=Q",
+      "https://www.unlv.edu/cs/directory?glossary=R",
+      "https://www.unlv.edu/cs/directory?glossary=S",
+      "https://www.unlv.edu/cs/directory?glossary=T",
+      "https://www.unlv.edu/cs/directory?glossary=U",
+      "https://www.unlv.edu/cs/directory?glossary=V",
+      "https://www.unlv.edu/cs/directory?glossary=W",
+      "https://www.unlv.edu/cs/directory?glossary=X",
+      "https://www.unlv.edu/cs/directory?glossary=Y",
+      "https://www.unlv.edu/cs/directory?glossary=Z"
+    ]
+  },
+  "Lamar University": {
+    "entries": "div.row > div.large-12.columns",
+    "name": "h3",
+    "email": "a[href^='mailto:']"
+  },
+  "California State University, Los Angeles": {
+    "entries": "table.table tbody tr",
+    "name": "td strong",
+    "profile_url": "a[href^='/faculty/']"
+  },
+  "Florida Agricultural and Mechanical University": {
+    "entries": "div.accordion__content > p:has(em)",
+    "name": "strong",
+    "email": "a[href^='mailto:']"
+  },
+  "Virginia State University": {
+    "force_js": true,
+    "js_wait_ms": 5000,
+    "entries": "div.directory-item",
+    "name": ".name a",
+    "profile_url": ".name a",
+    "email": ".email a[href^='mailto:']"
+  },
+  "Vanderbilt University": {
+    "force_js": true,
+    "js_wait_ms": 6000,
+    "entries": "li.people-list__list-item",
+    "name": ".people-list__name",
+    "profile_url": ".people-list__img-link, .people-list__name"
+  },
+  "East Tennessee State University": {
+    "entries": "div.profile",
+    "name": "h2",
+    "profile_url": "a[href^='mailto:']",
+    "email": "a[href^='mailto:']"
+  },
+  "University of Memphis": {
+    "entries": "tr:has(> td a[href*='faculty_pages/'])",
+    "name": "td a[href*='faculty_pages/']",
+    "profile_url": "td a[href*='faculty_pages/']",
+    "email": "a[href^='mailto:']"
+  },
+  "Montana State University": {
+    "force_js": true,
+    "js_wait_ms": 5000,
+    "entries": "div.row.faculty-directory",
+    "name": "h4.ai-faculty-name a",
+    "profile_url": "h4.ai-faculty-name a",
+    "email": "div.ai-faculty-contact a[href^='mailto:']",
+    "research": "span.ai-faculty-expertise"
+  },
+  "Brown University": {
+    "entries": "ul:has(> li.profile-name)",
+    "name": "li.profile-name",
+    "profile_url": "li.profile-link a[href*='/people/faculty/']",
+    "research": "li.profile-areas"
+  },
+  "Yale University": {
+    "force_js": true,
+    "js_wait_ms": 6000,
+    "entries": "a.block.faculty-department-item",
+    "name": "h3",
+    "profile": {
+      "title": "h2.pb-4"
+    }
+  }
+}

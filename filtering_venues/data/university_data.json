@@ -1,0 +1,500 @@
+[
+  {
+    "university_name": "Texas A&M University",
+    "rank": "r1",
+    "rank_place": 47,
+    "faculty_url": "https://engineering.tamu.edu/cse/profiles/index.html#Faculty"
+  },
+  {
+    "university_name": "Massachusetts Institute of Technology",
+    "rank": "r1",
+    "rank_place": 2,
+    "faculty_url": "https://www.eecs.mit.edu/role/faculty-cs/"
+  },
+  {
+    "university_name": "Carnegie Mellon University",
+    "rank": "r1",
+    "rank_place": 24,
+    "faculty_url": "https://csd.cmu.edu/people/faculty"
+  },
+  {
+    "university_name": "University of Illinois Urbana-Champaign",
+    "rank": "r1",
+    "rank_place": 35,
+    "faculty_url": "https://siebelschool.illinois.edu/about/people/all-faculty"
+  },
+  {
+    "university_name": "Stanford University",
+    "rank": "r1",
+    "rank_place": 3,
+    "faculty_url": "https://www.cs.stanford.edu/people/faculty"
+  },
+  {
+    "university_name": "Harvard University",
+    "rank": "r1",
+    "rank_place": 3,
+    "faculty_url": "https://seas.harvard.edu/computer-science/people?page=%2C0"
+  },
+  {
+    "university_name": "California Institute of Technology (Caltech)",
+    "rank": "r1",
+    "rank_place": 7,
+    "faculty_url": "https://www.cms.caltech.edu/people/faculty"
+  },
+  {
+    "university_name": "University of California, Berkeley",
+    "rank": "r1",
+    "rank_place": 15,
+    "faculty_url": "https://www2.eecs.berkeley.edu/Faculty/Lists/CS/faculty.html"
+  },
+  {
+    "university_name": "University of California, Los Angeles (UCLA)",
+    "rank": "r1",
+    "rank_place": 15,
+    "faculty_url": "https://www.cs.ucla.edu/"
+  },
+  {
+    "university_name": "University of California, San Diego (UCSD)",
+    "rank": "r1",
+    "rank_place": 28,
+    "faculty_url": "https://cse.ucsd.edu/people/faculty-profiles/faculty"
+  },
+  {
+    "university_name": "Georgia Institute of Technology (Georgia Tech)",
+    "rank": "r1",
+    "rank_place": 33,
+    "faculty_url": "https://scs.gatech.edu/people/faculty"
+  },
+  {
+    "university_name": "Purdue University",
+    "rank": "r1",
+    "rank_place": 43,
+    "faculty_url": "https://www.cs.purdue.edu/people/faculty/index.html"
+  },
+  {
+    "university_name": "University of Michigan",
+    "rank": "r1",
+    "rank_place": 21,
+    "faculty_url": "https://cse.engin.umich.edu/people/faculty/"
+  },
+  {
+    "university_name": "University of Texas at Austin",
+    "rank": "r1",
+    "rank_place": 32,
+    "faculty_url": "https://www.cs.utexas.edu/people"
+  },
+  {
+    "university_name": "University of Washington",
+    "rank": "r1",
+    "rank_place": 40,
+    "faculty_url": "https://www.cs.washington.edu/people/faculty-members/"
+  },
+  {
+    "university_name": "University of Wisconsin–Madison",
+    "rank": "r1",
+    "rank_place": 35,
+    "faculty_url": "https://www.cs.wisc.edu/people/faculty-2/"
+  },
+  {
+    "university_name": "Pennsylvania State University (Penn State)",
+    "rank": "r1",
+    "rank_place": 60,
+    "faculty_url": "https://www.eecs.psu.edu/departments/cse-faculty-list.aspx"
+  },
+  {
+    "university_name": "Ohio State University",
+    "rank": "r1",
+    "rank_place": 43,
+    "faculty_url": "https://cse.osu.edu/directory/faculty"
+  },
+  {
+    "university_name": "University of Maryland",
+    "rank": "r1",
+    "rank_place": 46,
+    "faculty_url": "https://www.cs.umd.edu/people/faculty"
+  },
+  {
+    "university_name": "North Carolina State University",
+    "rank": "r1",
+    "rank_place": 60,
+    "faculty_url": "https://csc.ncsu.edu/people/"
+  },
+  {
+    "university_name": "Duke University",
+    "rank": "r1",
+    "rank_place": 7,
+    "faculty_url": "https://cs.duke.edu/people/appointed-faculty/primary-faculty"
+  },
+  {
+    "university_name": "Marshall University",
+    "rank": "r2",
+    "rank_place": 332,
+    "faculty_url": "https://www.marshall.edu/cecs/directory/computer-science/"
+  },
+  {
+    "university_name": "Rice University",
+    "rank": "r1",
+    "rank_place": 17,
+    "faculty_url": "https://csweb.rice.edu/people/faculty"
+  },
+  {
+    "university_name": "University of Arizona",
+    "rank": "r1",
+    "rank_place": 115,
+    "faculty_url": "https://cs.arizona.edu/about/faculty"
+  },
+  {
+    "university_name": "University of New England",
+    "rank": "r2",
+    "rank_place": null,
+    "faculty_url": "https://www.une.edu/cas/schools/mathematics-data-science/people"
+  },
+  {
+    "university_name": "Clark Atlanta University",
+    "rank": "r2",
+    "rank_place": 361,
+    "faculty_url": "https://www.cau.edu/about/faculty-staff-directory"
+  },
+  {
+    "university_name": "Florida Agricultural and Mechanical University",
+    "rank": "r2",
+    "rank_place": 170,
+    "faculty_url": "https://cst.famu.edu/departments-and-centers/department-of-computer-and-information-sciences/about-us.php"
+  },
+  {
+    "university_name": "Hampton University",
+    "rank": "r2",
+    "rank_place": 280,
+    "faculty_url": "https://home.hamptonu.edu/science/computer-science/"
+  },
+  {
+    "university_name": "Morgan State University",
+    "rank": "r2",
+    "rank_place": 332,
+    "faculty_url": "https://www.morgan.edu/computer-science/faculty-and-staff"
+  },
+  {
+    "university_name": "University of Arkansas at Little Rock",
+    "rank": "r2",
+    "rank_place": 390,
+    "faculty_url": "https://ualr.edu/computerscience/faculty-and-staff/"
+  },
+  {
+    "university_name": "Prairie View A&M University",
+    "rank": "r2",
+    "rank_place": "394-435",
+    "faculty_url": "https://www.pvamu.edu/engineering/departments/cs/faculty-and-staff/"
+  },
+  {
+    "university_name": "Southern University and A&M College",
+    "rank": "r2",
+    "rank_place": "394-435",
+    "faculty_url": "https://www.subr.edu/page/department-capabilities-computer-science"
+  },
+  {
+    "university_name": "Tennessee State University",
+    "rank": "r2",
+    "rank_place": "394-435",
+    "faculty_url": "https://www.tnstate.edu/computer_science/faculty.aspx"
+  },
+  {
+    "university_name": "Texas Southern University",
+    "rank": "r2",
+    "rank_place": "394-435",
+    "faculty_url": "https://experts.tsu.edu/en/organisations/computer-science/persons/"
+  },
+  {
+    "university_name": "Virginia State University",
+    "rank": "r2",
+    "rank_place": null,
+    "faculty_url": "https://www.vsu.edu/cet/departments/computer-science/faculty-staff/"
+  },
+  {
+    "university_name": "Pepperdine University",
+    "rank": "r2",
+    "rank_place": 76,
+    "faculty_url": "https://seaver.pepperdine.edu/natural-science/facultystaff/facultypages/compscifac.htm"
+  },
+  {
+    "university_name": "Lamar University",
+    "rank": "r2",
+    "rank_place": "394-435",
+    "faculty_url": "https://www.lamar.edu/arts-sciences/computer-science/faculty-staff/"
+  },
+  {
+    "university_name": "California State University, Los Angeles",
+    "rank": "r2",
+    "rank_place": null,
+    "faculty_url": "https://www.calstatela.edu/ecst/cs/faculty"
+  },
+  {
+    "university_name": "University of Alabama in Huntsville",
+    "rank": "r2",
+    "rank_place": 227,
+    "faculty_url": "https://www.uah.edu/science/departments/computer-science/faculty-staff"
+  },
+  {
+    "university_name": "Wright State University",
+    "rank": "r2",
+    "rank_place": "394-435",
+    "faculty_url": "https://engineering-computer-science.wright.edu/computer-science-and-engineering/faculty-and-staff-directory"
+  },
+  {
+    "university_name": "Brown University",
+    "rank": "r1",
+    "rank_place": 9,
+    "faculty_url": "https://cs.brown.edu/people/faculty/"
+  },
+  {
+    "university_name": "Yale University",
+    "rank": "r1",
+    "rank_place": 5,
+    "faculty_url": "https://engineering.yale.edu/academic-study/departments/computer-science/faculty"
+  },
+  {
+    "university_name": "Columbia University",
+    "rank": "r1",
+    "rank_place": 12,
+    "faculty_url": "https://www.cs.columbia.edu/people/faculty/"
+  },
+  {
+    "university_name": "Cornell University",
+    "rank": "r1",
+    "rank_place": 12,
+    "faculty_url": "https://www.cs.cornell.edu/directory"
+  },
+  {
+    "university_name": "Princeton University",
+    "rank": "r1",
+    "rank_place": 1,
+    "faculty_url": "https://www.cs.princeton.edu/people/faculty"
+  },
+  {
+    "university_name": "Johns Hopkins University",
+    "rank": "r1",
+    "rank_place": 9,
+    "faculty_url": "https://www.cs.jhu.edu/faculty/"
+  },
+  {
+    "university_name": "Northwestern University",
+    "rank": "r1",
+    "rank_place": 9,
+    "faculty_url": "https://www.mccormick.northwestern.edu/computer-science/people/faculty/"
+  },
+  {
+    "university_name": "New York University (NYU)",
+    "rank": "r1",
+    "rank_place": 35,
+    "faculty_url": "https://cs.nyu.edu/dynamic/people/faculty/"
+  },
+  {
+    "university_name": "Rutgers University–New Brunswick",
+    "rank": "r1",
+    "rank_place": 40,
+    "faculty_url": "https://www.cs.rutgers.edu/people/professors"
+  },
+  {
+    "university_name": "University of Pittsburgh",
+    "rank": "r1",
+    "rank_place": 67,
+    "faculty_url": "https://www.cs.pitt.edu/people/full-time-faculty"
+  },
+  {
+    "university_name": "University of Chicago",
+    "rank": "r1",
+    "rank_place": 12,
+    "faculty_url": "https://computerscience.uchicago.edu/people/uchicago-faculty/full-time-faculty/"
+  },
+  {
+    "university_name": "Vanderbilt University",
+    "rank": "r1",
+    "rank_place": 18,
+    "faculty_url": "https://engineering.vanderbilt.edu/people/computer-science/"
+  },
+  {
+    "university_name": "Washington University in St. Louis",
+    "rank": "r1",
+    "rank_place": 24,
+    "faculty_url": "https://cse.washu.edu/faculty-research/directory.html"
+  },
+  {
+    "university_name": "Emory University",
+    "rank": "r1",
+    "rank_place": 24,
+    "faculty_url": "https://computerscience.emory.edu/people/index.html"
+  },
+  {
+    "university_name": "University of North Carolina at Chapel Hill",
+    "rank": "r1",
+    "rank_place": 22,
+    "faculty_url": "https://cs.unc.edu/about/people/"
+  },
+  {
+    "university_name": "Florida State University",
+    "rank": "r1",
+    "rank_place": 53,
+    "faculty_url": "https://www.cs.fsu.edu/department/faculty/"
+  },
+  {
+    "university_name": "University of Notre Dame",
+    "rank": "r1",
+    "rank_place": 20,
+    "faculty_url": "https://cse.nd.edu/faculty/"
+  },
+  {
+    "university_name": "University of Oregon",
+    "rank": "r1",
+    "rank_place": 98,
+    "faculty_url": "https://cas.uoregon.edu/directory/computer-science-faculty"
+  },
+  {
+    "university_name": "Oregon State University",
+    "rank": "r1",
+    "rank_place": 142,
+    "faculty_url": "https://engineering.oregonstate.edu/EECS/About/People"
+  },
+  {
+    "university_name": "University of Utah",
+    "rank": "r1",
+    "rank_place": 115,
+    "faculty_url": "https://www.cs.utah.edu/people/faculty/"
+  },
+  {
+    "university_name": "Arkansas State University",
+    "rank": "r2",
+    "rank_place": 361,
+    "faculty_url": "https://www.astate.edu/colleges/engineering-and-computer-science/faculty-and-staff.html"
+  },
+  {
+    "university_name": "Southern Connecticut State University",
+    "rank": "r2",
+    "rank_place": null,
+    "faculty_url": "https://www.southernct.edu/academics/computer-science/faculty"
+  },
+  {
+    "university_name": "California State University, Fullerton",
+    "rank": "r2",
+    "rank_place": 133,
+    "faculty_url": "https://www.fullerton.edu/ecs/cs/faculty-staff/index.html"
+  },
+  {
+    "university_name": "University of Missouri–Kansas City",
+    "rank": "r2",
+    "rank_place": 269,
+    "faculty_url": "https://sse.umkc.edu/directories/computer-science-and-information-technologydirectory.html"
+  },
+  {
+    "university_name": "University of Memphis",
+    "rank": "r2",
+    "rank_place": 269,
+    "faculty_url": "https://www.memphis.edu/cs/people/"
+  },
+  {
+    "university_name": "University of Nevada, Las Vegas",
+    "rank": "r2",
+    "rank_place": 269,
+    "faculty_url": "https://www.unlv.edu/cs/directory"
+  },
+  {
+    "university_name": "University of Nevada, Reno",
+    "rank": "r2",
+    "rank_place": 195,
+    "faculty_url": "https://www.unr.edu/cse/people"
+  },
+  {
+    "university_name": "University of Idaho",
+    "rank": "r2",
+    "rank_place": 185,
+    "faculty_url": "https://www.uidaho.edu/engineering/academics/computer-science"
+  },
+  {
+    "university_name": "Boise State University",
+    "rank": "r2",
+    "rank_place": 332,
+    "faculty_url": "https://www.boisestate.edu/coen-cs/people/faculty/"
+  },
+  {
+    "university_name": "Montana State University",
+    "rank": "r2",
+    "rank_place": 304,
+    "faculty_url": "https://www.cs.montana.edu/directory/"
+  },
+  {
+    "university_name": "University of Wyoming",
+    "rank": "r2",
+    "rank_place": 216,
+    "faculty_url": "https://www.uwyo.edu/eecs/faculty-staff/index.html"
+  },
+  {
+    "university_name": "University of North Dakota",
+    "rank": "r2",
+    "rank_place": 236,
+    "faculty_url": "https://engineering.und.edu/academics/electrical-and-computer-science/faculty.html"
+  },
+  {
+    "university_name": "South Dakota State University",
+    "rank": "r2",
+    "rank_place": 296,
+    "faculty_url": "https://www.sdstate.edu/directory"
+  },
+  {
+    "university_name": "University of South Dakota",
+    "rank": "r2",
+    "rank_place": 269,
+    "faculty_url": "https://www.usd.edu/Academics/Colleges-and-Schools/college-of-arts-sciences/computer-science"
+  },
+  {
+    "university_name": "Wichita State University",
+    "rank": "r2",
+    "rank_place": 332,
+    "faculty_url": "https://www.wichita.edu/profiles/academics/engineering/SoC/01_Faculty/"
+  },
+  {
+    "university_name": "University of Central Missouri",
+    "rank": "r2",
+    "rank_place": null,
+    "faculty_url": "https://www.ucmo.edu/college-of-health-science-and-technology/department-of-computer-science-and-cybersecurity/computer-science-and-software-engineering/faculty/"
+  },
+  {
+    "university_name": "Missouri State University",
+    "rank": "r2",
+    "rank_place": 352,
+    "faculty_url": "https://computerscience.missouristate.edu/people.htm"
+  },
+  {
+    "university_name": "East Tennessee State University",
+    "rank": "r2",
+    "rank_place": 320,
+    "faculty_url": "https://www.etsu.edu/cbat/computing/faculty_and_staff/"
+  },
+  {
+    "university_name": "University of California, Irvine",
+    "rank": "r1",
+    "rank_place": 33,
+    "faculty_url": "https://cs.ics.uci.edu/faculty/"
+  },
+  {
+    "university_name": "University of California, Davis",
+    "rank": "r1",
+    "rank_place": 28,
+    "faculty_url": "https://cs.ucdavis.edu/person-type/faculty"
+  },
+  {
+    "university_name": "University of Rochester",
+    "rank": "r1",
+    "rank_place": 47,
+    "faculty_url": "https://www.cs.rochester.edu/people/faculty/index.html"
+  },
+  {
+    "university_name": "Case Western Reserve University",
+    "rank": "r1",
+    "rank_place": 53,
+    "faculty_url": "https://engineering.case.edu/computer-and-data-sciences/faculty-and-staff"
+  },
+  {
+    "university_name": "University of California, Santa Barbara",
+    "rank": "r1",
+    "rank_place": 35,
+    "faculty_url": "https://www.cs.ucsb.edu/people/faculty"
+  }
+]
