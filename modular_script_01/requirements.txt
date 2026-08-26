@@ -1,0 +1,9 @@
+# Requirements for the Automatic Scraping Project
+#
+# Install with:
+#     pip install -r requirements.txt
+
+requests
+beautifulsoup4
+pandas
+openpyxl

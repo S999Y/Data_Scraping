@@ -1,0 +1,117 @@
+# ============================================================
+# Professors_Data - .gitignore
+# ============================================================
+
+# ---------------------
+# Python
+# ---------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ---------------------
+# Virtual Environment
+# ---------------------
+venv/
+.venv/
+env/
+ENV/
+VENV/
+
+# ---------------------
+# IDE / Editor
+# ---------------------
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+*.sublime-workspace
+*.sublime-project
+
+# ---------------------
+# OS
+# ---------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# ---------------------
+# Jupyter Notebooks
+# ---------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# ---------------------
+# Large Data Files (keep structure, ignore content)
+# ---------------------
+# Scraped faculty CSVs (regenerable from scraping)
+modular_script_01/datasets/faculty/*_faculty.csv
+modular_script_01/datasets/faculty/combined_faculty.csv
+
+# API response caches (regenerable from API calls)
+modular_script_01/datasets/cache/
+filtering_venues/data/cache/
+
+# Google Scholar cached responses
+modular_script_01/datasets/scholars/*.csv
+
+# Unified output (regenerable from pipeline)
+modular_script_01/datasets/unified/professor_master.csv
+modular_script_01/datasets/unified/publications.csv
+
+# Carnegie rankings CSV (regenerable from Wikipedia)
+modular_script_01/datasets/rankings/carnegie_rankings.csv
+
+# ---------------------
+# Scraping Filter Outputs
+# ---------------------
+scraping_filtering/merged_ai_professors.csv
+scraping_filtering/data/openalex_enriched.csv
+
+# ---------------------
+# Filtering Venues Outputs
+# ---------------------
+filtering_venues/results/test_online_results.csv
+filtering_venues/results/test_offline_results.csv
+filtering_venues/results/online_combined.csv
+
+# ---------------------
+# HTML Fixtures (large, keep only if needed)
+# ---------------------
+# Uncomment below to ignore saved HTML pages:
+# modular_script_01/html_pages/
+
+# ---------------------
+# Environment Variables / Secrets
+# ---------------------
+*.pem
+*.key
+
+# ---------------------
+# Logs
+# ---------------------
+*.log
+logs/
+
+# ---------------------
+# Temporary
+# ---------------------
+*.tmp
+*.bak
+*.backup
+config.bat
+node_modules

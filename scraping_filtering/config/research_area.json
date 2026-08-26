@@ -1,0 +1,65 @@
+{
+  "related_research_areas": [
+    {
+      "short_form": "AI",
+      "full_form": "Artificial Intelligence",
+      "related_terms": [
+        "Explainable AI",
+        "Generative AI",
+        "Human-Centered AI",
+        "AI For Science"
+      ]
+    },
+    {
+      "short_form": "ML",
+      "full_form": "Machine Learning",
+      "related_terms": [
+        "Applied Machine Learning",
+        "Machine Learning and Data Science",
+        "Deep Learning",
+        "Reinforcement Learning",
+        "Artificial Intelligence + Machine Learning",
+        "ML and Natural Language Processing",
+        "Machine Learning and Mobile Computing"
+      ]
+    },
+    {
+      "short_form": "CV",
+      "full_form": "Computer Vision",
+      "related_terms": [
+        "Computer Vision and Machine Perception",
+        "Computer Graphics and Vision",
+        "Graphics and Vision",
+        "Image & Video Compression",
+        "Image/Video Processing and Analysis",
+        "Medical Image Analysis",
+        "Biometrics & Identity Verification",
+        "Digital Forensics & Multimedia Security"
+      ]
+    },
+    {
+      "short_form": "NLP",
+      "full_form": "Natural Language Processing",
+      "related_terms": [
+        "Natural Language and Speech Processing",
+        "ML and Natural Language Processing",
+        "large language models",
+        "Sound and Music",
+        "Machine Listening"
+      ]
+    },
+    {
+      "short_form": "DL",
+      "full_form": "Deep Learning"
+    },
+    {
+      "short_form": "RL",
+      "full_form": "Reinforcement Learning"
+    },
+    {
+      "short_form": "LLM",
+      "full_form": "Large Language Models",
+      "related_terms": ["Generative AI"]
+    }
+  ]
+}

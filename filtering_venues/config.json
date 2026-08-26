@@ -1,0 +1,135 @@
+{
+  "target_areas": {
+    "Computer Vision": [
+      "computer vision",
+      "visual recognition",
+      "image segment",
+      "object detection",
+      "visual perception",
+      "3d vision",
+      "image generation",
+      "visual understanding",
+      "scene understanding",
+      "image-to-image"
+    ],
+    "Machine Learning": [
+      "machine learning",
+      "deep learning",
+      "neural network",
+      "learning theory",
+      "reinforcement learning",
+      "representation learning",
+      "foundation model",
+      "diffusion model",
+      "graph neural",
+      "optimization",
+      "probabilistic",
+      "statistical learning",
+      "generative model",
+      "llm",
+      "large language"
+    ],
+    "Artificial Intelligence": [
+      "artificial intelligence",
+      "intelligent agent",
+      "multi-agent",
+      "knowledge representation",
+      "knowledge graph",
+      "automated reasoning",
+      "expert system",
+      "computational intelligence",
+      "machine reasoning",
+      "artificial general intelligence",
+      "cognitive computing",
+      "reasoning"
+    ],
+    "NLP": [
+      "natural language",
+      "nlp",
+      "language model",
+      "computational linguistics",
+      "machine translation",
+      "text generation",
+      "speech processing",
+      "speech recognition",
+      "information extraction",
+      "question answering",
+      "dialogue",
+      "discourse"
+    ],
+    "Cryptography & Security": [
+      "hash",
+      "cryptographic",
+      "cryptography",
+      "encryption",
+      "cipher",
+      "cryptanalysis",
+      "decryption",
+      "digital signature",
+      "blockchain",
+      "security",
+      "privacy",
+      "authentication",
+      "secure computation",
+      "zero-knowledge",
+      "homomorphic",
+      "secret sharing",
+      "secure multiparty",
+      "side-channel",
+      "information security"
+    ]
+  },
+  "target_venues": {
+    "NeurIPS": [
+      "neurips",
+      "neural information processing systems",
+      "neural information processing"
+    ],
+    "ICML": ["icml", "international conference on machine learning"],
+    "ICLR": ["iclr", "international conference on learning representations"],
+    "AAAI": [
+      "aaai",
+      "association for the advancement of artificial intelligence"
+    ],
+    "IJCAI": [
+      "ijcai",
+      "international joint conference on artificial intelligence"
+    ],
+    "CVPR": ["cvpr", "computer vision and pattern recognition"],
+    "ICCV": ["iccv", "international conference on computer vision"],
+    "ECCV": ["eccv", "european conference on computer vision"],
+    "ACL": [
+      "acl",
+      "annual meeting of the association for computational linguistics",
+      "association for computational linguistics"
+    ],
+    "EMNLP": ["emnlp", "empirical methods in natural language processing"],
+    "NAACL": [
+      "naacl",
+      "north american chapter of the association for computational linguistics"
+    ]
+  },
+  "is_pickable": {
+    "require_rank_r1": true,
+    "min_target_pubs": 1,
+    "exclude_other_area": true
+  },
+  "scrape": {
+    "site_delay_seconds": 0.3,
+    "profile_depth": true
+  },
+  "openalex": {
+    "delay_seconds": 0.2,
+    "rate_limit": 8,
+    "max_works": 300,
+    "per_page": 200,
+    "max_workers": 4,
+    "mailto": "",
+    "api_key": [
+      "cKghcCX9xGlAeniB5QHNRQ",
+      "riaTWbfjQMvuJQ5FqLffcz",
+      "RbbP8m1omrBG4Dfa2Cv7ZI",
+      "H9SuSjf29MTyMeSGeF5MXv"
+    ]
+  }
+}
